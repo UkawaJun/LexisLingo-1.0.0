@@ -259,7 +259,7 @@ This report presents the preliminary quantitative analysis, focusing on the extr
 The following chart illustrates the top 30 most frequently occurring word lemmas in the corpus after morphological tracing. Serving as the foundation for dynamic context generation, these core vocabulary items act as the anchor points of the initial semantic network.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c210ec6d-53e2-4487-85b4-f233d1875ef4" alt="Top 30 Most Frequent Lemmas" width="85%">
+  <img src="https://github.com/user-attachments/assets/1bd03f46-6b50-4830-954c-d35c208c76fc" alt="Top 30 Most Frequent Lemmas" width="85%">
   <br>
   <em>Fig 1: 频次最高的前30个单词原型分布 / Top 30 Word Lemmas Distribution</em>
 </p>
@@ -274,10 +274,12 @@ This section displays the frequency distribution across different word lengths. 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29d0a212-da02-4864-a920-5f2adbea253a" alt="Word Length Frequency Distribution" width="85%">
+  <img src="https://github.com/user-attachments/assets/23b57728-5371-470e-83f1-d84efbe4aefb" alt="Word Length Frequency Distribution" width="85%">
   <br>
   <em>Fig 2: 单词长度与出现频率的映射关系 / Mapping of Word Length to Frequency</em>
 </p>
+
+
 
 ---
 > **Note:** 演示数据集基于闭环语境过滤生成，完整链式释义网络记录详见后续更新。 
